@@ -1,0 +1,10 @@
+/* SCHEMA FILE */
+
+CREATE TABLE animal (
+ID int NOT NULL PRIMARY KEY,
+chicken ( name varchar(90) NOT NULL,
+tiger ( age int(13),
+whale ( name char(65),
+
+);
+
