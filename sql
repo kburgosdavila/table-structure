@@ -22,3 +22,5 @@ mysql> create table animals ( name varchar(200) NOT NULL, id integer(7), types v
 Query OK, 0 rows affected (0.02 sec)
 
 
+mysql> SELECT * FROM animals
+-> WHERE name= 'animals';
